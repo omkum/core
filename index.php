@@ -24,5 +24,6 @@
 $RUNTIME_NOAPPS = TRUE; //no apps, yet
 
 require_once 'lib/base.php';
+echo" hellllooo";
 
 OC::handleRequest();
